@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant Kalas
 - 👀 I’m interested in new tech and gadgets 
-- 🌱 I’m currently learning Python and Web Page Designing
+- 🌱 I’m currently learning Data Analytics and ML
 - 📫 How to reach me www.linkedin.com/in/vedant-kalas-3abb21261
 
 
